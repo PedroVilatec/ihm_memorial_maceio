@@ -1,0 +1,58 @@
+{
+    "CONFIG": {
+        "TIME": 1617777095.1219556,
+        "TIME_BLOCK_SENHA": 300,
+        "UPDATE": false,
+        "IN_SERVER_IP": null,
+        "LOCAL_IP": null,
+        "VIDEO_FILES": [
+            "*.mp4",
+            "*.mkv",
+            "*.avi",
+            "*.wmv",
+            "*.mpeg",
+            "*.flv",
+            "*.mov"
+        ],
+        "AUDIO_FILES": [
+            "*.mp3",
+            "*.wav",
+            "*.ogg",
+            "*.aac",
+            "*.aiff",
+            "*.pcm",
+            "*.flac",
+            "*.wma"
+        ],
+        "TOPICO_INT_IHM": "capela/ihm",
+        "TOPICO_EXT_IHM": "capela/bentes/ihm",
+        "PORTA_MQTT": 1883,
+        "AUDIO_IHM": false,
+        "CEMITERIO": "bentes_2",
+        "TOPICO_IN_SERVER": "capela/cerimonia",
+        "TOPICO_EXT_SERVER": "capela/bentes/cerimonia",
+        "VIDEO_EXTERNO": {
+            "ENABLE": true,
+            "VOLUME": 1,
+            "URL": "/home/pi/CAPELA/cerimonia/media_shared/video/Cerimonia_masculino_psh.mp4"
+        },
+        "VIDEO_LOCAL": {
+            "PULSA_VERMELHO": false,
+            "VOLUME": 1,
+            "INIC_CH_PETALAS": 218,
+            "ACENDE_CENARIO": 365,
+            "INIC_PULSA_CRUZ": 339,
+            "FIM_PULSA_CRUZ": 352,
+            "INIC_SEQUENCIA": 213,
+            "INIC_FUMACA": 208,
+            "APAGA_CRUZ": 360,
+            "URL": "Cachoeiras e Flores.mp4"
+        },
+        "IHM_AUDIO": {
+            "INDEX": null,
+            "NAME": null,
+            "VOLUME": 50
+        },
+        "ORIGEM_VIDEO": "VIDEO_EXTERNO"
+    }
+}

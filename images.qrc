@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="colorPicker">
+    <file>Color_wheel.png</file>
+    <file>wheel.png</file>
+    <file>colormap.png</file>
+  </qresource>
+  <qresource prefix="imagens">
+    <file>imagem1.jpg</file>
+  </qresource>
+  <qresource prefix="icones">
+    <file>gears.png</file>
+    <file>logo.jpg</file>
+    <file>musica.png</file>
+    <file>temperatura.png</file>
+  </qresource>
+</RCC>

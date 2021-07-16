@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>round_avancar.png</file>
+    <file>round_eject.png</file>
+    <file>round_last.png</file>
+    <file>round_mute.png</file>
+    <file>round_next.png</file>
+    <file>round_pause.png</file>
+    <file>round_play.png</file>
+    <file>round_repeat.png</file>
+    <file>round_repeat1.png</file>
+    <file>round_retroceder.png</file>
+    <file>round_stop.png</file>
+    <file>round_unmute.png</file>
+  </qresource>
+</RCC>

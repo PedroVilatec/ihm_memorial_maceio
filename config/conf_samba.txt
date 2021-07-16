@@ -1,0 +1,9 @@
+[media]
+comment=Compartilhamento de videos para cerimonia
+path = /home/pi/CAPELA/cerimonia/media
+writeable=Yes
+create mask=0777
+directory mask=0777
+security = share
+browseable = true
+public=yes

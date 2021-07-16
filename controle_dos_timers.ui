@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>936</width>
+    <height>404</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <layout class="QGridLayout" name="gridLayout_25">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <item row="0" column="1">
+      <layout class="QVBoxLayout" name="verticalLayout_3">
+       <property name="spacing">
+        <number>3</number>
+       </property>
+       <item>
+        <widget class="QLabel" name="label">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>20</pointsize>
+          </font>
+         </property>
+         <property name="layoutDirection">
+          <enum>Qt::LeftToRight</enum>
+         </property>
+         <property name="text">
+          <string>Configurações de Cerimônia video_1.mp4</string>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignCenter</set>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_6">
+         <item>
+          <layout class="QGridLayout" name="gridLayout_27">
+           <item row="0" column="3">
+            <layout class="QHBoxLayout" name="horizontalLayout_11">
+             <item>
+              <layout class="QVBoxLayout" name="verticalLayout_7" stretch="2,1">
+               <item>
+                <widget class="QLabel" name="label_3">
+                 <property name="font">
+                  <font>
+                   <pointsize>14</pointsize>
+                  </font>
+                 </property>
+                 <property name="text">
+                  <string>Início da chuva de pétalas</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QSpinBox" name="spinBox">
+                 <property name="font">
+                  <font>
+                   <family>News701 BT</family>
+                   <pointsize>60</pointsize>
+                   <italic>true</italic>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">QDoubleSpinBox
+{
+border : 2px solid black;
+background : white;
+}
+QDoubleSpinBox::hover
+{
+border : 2px solid green;
+background : lightgreen;
+}
+QDoubleSpinBox::up-arrow
+{
+border : 1px solid black;
+background : blue;
+}
+QDoubleSpinBox::down-arrow
+{
+border : 1px solid black;
+background : red;
+}</string>
+                 </property>
+                 <property name="maximum">
+                  <number>9994</number>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </item>
+            </layout>
+           </item>
+           <item row="0" column="2">
+            <layout class="QHBoxLayout" name="horizontalLayout_12">
+             <item>
+              <layout class="QVBoxLayout" name="verticalLayout_8" stretch="2,1">
+               <item>
+                <widget class="QLabel" name="label_4">
+                 <property name="font">
+                  <font>
+                   <pointsize>14</pointsize>
+                  </font>
+                 </property>
+                 <property name="text">
+                  <string>Início da chuva de pétalas</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QSpinBox" name="spinBox_2">
+                 <property name="font">
+                  <font>
+                   <family>News701 BT</family>
+                   <pointsize>60</pointsize>
+                   <italic>true</italic>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">QDoubleSpinBox
+{
+border : 2px solid black;
+background : white;
+}
+QDoubleSpinBox::hover
+{
+border : 2px solid green;
+background : lightgreen;
+}
+QDoubleSpinBox::up-arrow
+{
+border : 1px solid black;
+background : blue;
+}
+QDoubleSpinBox::down-arrow
+{
+border : 1px solid black;
+background : red;
+}</string>
+                 </property>
+                 <property name="maximum">
+                  <number>9994</number>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </item>
+            </layout>
+           </item>
+           <item row="0" column="1">
+            <layout class="QVBoxLayout" name="verticalLayout_9" stretch="2,0">
+             <item>
+              <widget class="QLabel" name="label_5">
+               <property name="font">
+                <font>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Início da chuva de pétalas</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QSpinBox" name="spinBox_3">
+               <property name="font">
+                <font>
+                 <family>News701 BT</family>
+                 <pointsize>60</pointsize>
+                 <italic>true</italic>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QDoubleSpinBox
+{
+border : 2px solid black;
+background : white;
+}
+QDoubleSpinBox::hover
+{
+border : 2px solid green;
+background : lightgreen;
+}
+QDoubleSpinBox::up-arrow
+{
+border : 1px solid black;
+background : blue;
+}
+QDoubleSpinBox::down-arrow
+{
+border : 1px solid black;
+background : red;
+}</string>
+               </property>
+               <property name="maximum">
+                <number>9994</number>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item row="0" column="0">
+            <layout class="QVBoxLayout" name="verticalLayout_10" stretch="2,1">
+             <item>
+              <widget class="QLabel" name="label_6">
+               <property name="font">
+                <font>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Início da chuva de pétalas</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QSpinBox" name="spinBox_4">
+               <property name="font">
+                <font>
+                 <family>News701 BT</family>
+                 <pointsize>60</pointsize>
+                 <italic>true</italic>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QDoubleSpinBox
+{
+border : 2px solid black;
+background : white;
+}
+QDoubleSpinBox::hover
+{
+border : 2px solid green;
+background : lightgreen;
+}
+QDoubleSpinBox::up-arrow
+{
+border : 1px solid black;
+background : blue;
+}
+QDoubleSpinBox::down-arrow
+{
+border : 1px solid black;
+background : red;
+}</string>
+               </property>
+               <property name="maximum">
+                <number>9994</number>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

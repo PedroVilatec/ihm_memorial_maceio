@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="ihm">
+    <file>round_avancar.png</file>
+  </qresource>
+</RCC>

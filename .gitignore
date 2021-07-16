@@ -1,0 +1,16 @@
+
+
+# Ignore Logs
+logs
+*.log
+
+# Ignore the build directory
+/__pycache__
+# The file containing environment variables 
+.pyc
+*.mp3
+*.mp4
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*

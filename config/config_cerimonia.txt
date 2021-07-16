@@ -1,0 +1,63 @@
+{
+    "CONFIG": {
+        "TIME": 1611862985.5990555,
+        "TIME_BLOCK_SENHA": 300,
+        "UPDATE": false,
+        "IN_SERVER_IP": null,
+        "LOCAL_IP": null,
+        "VIDEO_FILES": [
+            "*.mp4",
+            "*.mkv",
+            "*.avi",
+            "*.wmv",
+            "*.mpeg",
+            "*.flv",
+            "*.mov"
+        ],
+        "AUDIO_FILES": [
+            "*.mp3",
+            "*.wav",
+            "*.ogg",
+            "*.aac",
+            "*.aiff",
+            "*.pcm",
+            "*.flac",
+            "*.wma"
+        ],
+        "TOPICO_INT_IHM": "capela/ihm",
+        "TOPICO_EXT_IHM": "capela/krause/ihm",
+        "PORTA_MQTT": 1883,
+        "ORIGEM_VIDEO": "VIDEO_LOCAL",
+        "AUDIO_IHM": false,
+        "CEMITERIO": "krause",
+        "TOPICO_IN_SERVER": "capela/cerimonia",
+        "TOPICO_EXT_SERVER": "capela/krause/cerimonia",
+        "VIDEO_EXTERNO": {
+            "VOLUME": 1,
+            "INIC_CH_PETALAS": 218,
+            "ACENDE_CENARIO": 365,
+            "INIC_PULSA_CRUZ": 339,
+            "FIM_PULSA_CRUZ": 352,
+            "INIC_SEQUENCIA": 213,
+            "INIC_FUMACA": 208,
+            "APAGA_CRUZ": 360,
+            "URL": ""
+        },
+        "VIDEO_LOCAL": {
+            "VOLUME": 1,
+            "INIC_CH_PETALAS": 218,
+            "ACENDE_CENARIO": 365,
+            "INIC_PULSA_CRUZ": 339,
+            "FIM_PULSA_CRUZ": 352,
+            "INIC_SEQUENCIA": 213,
+            "INIC_FUMACA": 208,
+            "APAGA_CRUZ": 360,
+            "URL": "video_1.mp4"
+        },
+        "IHM_AUDIO": {
+            "INDEX": null,
+            "NAME": null,
+            "VOLUME": 50
+        }
+    }
+}
