@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
+# ~ from dialog import MeuDialog
 import json
 from jsondiff import diff
 import threading
 import player_1 as player_
 import player_2 as player_2
+# ~ import player_vlc_media_new_sem_playerAntigo as player_
 import btnStyle
 from operations.mqtt import MosquittoServer, Mosquitto
 # from operations.copy_file import ProgressDialog, ProgressMessageBox
